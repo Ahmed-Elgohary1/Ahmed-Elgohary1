@@ -4,7 +4,8 @@
 
 
 
-- Third-Year Electrical Engineering Student @ ***Alexandria University***. Passionate About Software Engineering and philosophy.
+- Third-Year Electrical Engineering Student⚡ @ ***Alexandria University***. Passionate About Software Engineering and philosophy.
+- 🌱 I’m currently learning Node.js
 <!--
 **Ahmed-Elgohary1/Ahmed-Elgohary1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,3 +23,4 @@ Here are some ideas to get you started:
 ### Activity ⚡
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ahmed-Elgohary1&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
