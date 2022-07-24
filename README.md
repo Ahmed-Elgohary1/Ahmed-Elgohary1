@@ -19,5 +19,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Activity ⚡
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ahmed-Elgohary1&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
