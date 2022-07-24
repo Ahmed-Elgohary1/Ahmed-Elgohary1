@@ -1,5 +1,10 @@
-### Hi there 👋
+## Hi there 👋
 
+### About me
+
+
+
+- Third-Year Electrical Engineering Student @ ***Alexandria University***. Passionate About Software Engineering and philosophy.
 <!--
 **Ahmed-Elgohary1/Ahmed-Elgohary1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +19,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ahmed-Elgohary1&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
