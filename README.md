@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
   </div>
   
-## Languages Dealt With  
+## Languages Dealt With 
   <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -47,8 +47,10 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-  
+<div id="header" align="center">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Elgohary1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+    </div>
 
 ## Connect Me
 
