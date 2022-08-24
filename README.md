@@ -27,8 +27,9 @@ Here are some ideas to get you started:
 -->
 ## Activity ⚡
 
+<!--[![ github activity graph](https://activity-graph.herokuapp.com/graph?username=Ahmed-Elgohary1&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)]-->
 
-  [![ github activity graph](https://activity-graph.herokuapp.com/graph?username=Ahmed-Elgohary1&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <div id="header" align="center">
     
