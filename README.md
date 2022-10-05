@@ -5,6 +5,9 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
+## Experience
+### Software Engineer Intern at [RadicalX](https://www.radicalx.co/)
+
 ## About me
 
 
