@@ -13,7 +13,6 @@
 
 
 - Third-Year Electrical Engineering Student⚡ @ ***Alexandria University***. Passionate About Software Engineering and philosophy.
-- 🌱 I’m currently learning Node.js
 <!--
 **Ahmed-Elgohary1/Ahmed-Elgohary1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
