@@ -6,7 +6,7 @@
 </div>
 
 ## Experience
-### Software Engineer Intern at [RadicalX](https://www.radicalx.co/)
+### Ex-Software Engineer Intern at [RadicalX](https://www.radicalx.co/)
 
 ## About me
 
