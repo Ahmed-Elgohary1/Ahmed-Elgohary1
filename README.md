@@ -67,6 +67,11 @@ Gmail : ahmedm.saeedelgohary@gmail.com
    <a href="https://dev.to/ahmedelgohary1">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
   </a>
+  
+   <a href="https://medium.com/@ahmedm.saeedelgohary">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+  
   <a href="https://www.youtube.com/channel/UCnl3XqoLd9n8tQM8fBqZ0ng/videos">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
