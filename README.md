@@ -12,7 +12,7 @@
 
 
 
-- Third-Year Electrical Engineering Student⚡ @ ***Alexandria University***. Passionate About Software Engineering and philosophy.
+- Fourth-Year Electrical Engineering Student⚡ @ ***Alexandria University***. Passionate About Software Engineering and philosophy.
 <!--
 **Ahmed-Elgohary1/Ahmed-Elgohary1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 ## Connect Me
 
-Gmail : ahmedm.saeedelgohary@gmail.com
+Gmail: ahmedm.saeedelgohary@gmail.com
 
 <div id="badges">
 
