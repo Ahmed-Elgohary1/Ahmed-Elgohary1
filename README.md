@@ -5,14 +5,12 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-## Experience
-### Former Software Engineer Intern at  RadicalX
 
 ## About me
 
 
 
-- Fourth-Year Electrical Engineering Student⚡ @ ***Alexandria University***. Passionate About Software Engineering and philosophy.
+- Electrical Engineering graduate 🎓🎓⚡ @ ***Alexandria University***. Passionate About Software Engineering and philosophy.
 <!--
 **Ahmed-Elgohary1/Ahmed-Elgohary1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
